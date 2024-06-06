@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<channel id="KTVSportPlus.kw"><name>KTV Sport Plus KW</name><display-name>KTV Sport Plus KW</display-name><icon src="https://static.epg.best/kw/KTVSportPlus.kw.png"/></channel>
+
+<channel id="KTVEthraa.kw"><name>KTV Ethraa KW</name><display-name>KTV Ethraa KW</display-name><icon src="https://static.epg.best/kw/KTVEthraa.kw.png"/></channel>
+
+<channel id="KTVArabe.kw"><name>KTV Arabe KW</name><display-name>KTV Arabe KW</display-name><icon src="https://static.epg.best/kw/KTVArabe.kw.png"/></channel>
+
+<channel id="KTVMajlis.kw"><name>KTV Majlis KW</name><display-name>KTV Majlis KW</display-name><icon src="https://static.epg.best/kw/KTVMajlis.kw.png"/></channel>
+
+<channel id="KTV2.kw"><name>KTV 2 KW</name><display-name>KTV 2 KW</display-name><icon src="https://static.epg.best/kw/KTV2.kw.png"/></channel>
+
+<channel id="KTVAlQurain.kw"><name>KTV Al Qurain KW</name><display-name>KTV Al Qurain KW</display-name><icon src="https://static.epg.best/kw/KTVAlQurain.kw.png"/></channel>
+
+<channel id="KTV1.kw"><name>KTV 1 KW</name><display-name>KTV 1 KW</display-name><icon src="https://static.epg.best/kw/KTV1.kw.png"/></channel>
+
+<channel id="KTVSport.kw"><name>KTV Sport KW</name><display-name>KTV Sport KW</display-name><icon src="https://static.epg.best/kw/KTVSport.kw.png"/></channel>
+ <iepg name="2130"/>
+</tv>
